@@ -48,11 +48,12 @@ int main(){
 	Catalan(n);
 	printf("Le nombre de catalan est: %d \n",nombre_catalan);
 	stock(strings,color,n);
-	*/
-	shell(nombre_catalan);
+	
+	shell(nombre_catalan);*/
 
    //printf("%d \n",m); bug
-    free(a);
-
+        free(a);
+	free(strings);
+	free(color);
 	return 0;
 }
