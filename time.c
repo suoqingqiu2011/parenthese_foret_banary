@@ -51,7 +51,7 @@ int main(){
 	
 	shell(nombre_catalan);*/
 
-   //printf("%d \n",m); bug
+  
         free(a);
 	free(strings);
 	free(color);
