@@ -2,7 +2,7 @@
 #include "stdlib.h"
 #include "errno.h" 
 #include "time.h"
-#include "parenthese_foret_binary(modifier).c"
+#include "parenthese_foret_binary(main).c"
 
 int main(){
 	int m,n,k=0;
