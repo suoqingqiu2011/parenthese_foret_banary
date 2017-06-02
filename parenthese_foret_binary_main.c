@@ -81,7 +81,7 @@ void binary(Mytree *myt,char **strings,char **color){
         }   
     }
 	for(i=pt1;i<pt;i++){
-		//printf("%s %s\n",strings[i],color[i]);
+		printf("%s %s\n",strings[i],color[i]);
 	}printf("==================================\n");
 	free(b);
 }
